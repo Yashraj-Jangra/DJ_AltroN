@@ -1,0 +1,27 @@
+{
+   "token": "",
+   "prefix": ">",
+   "ownerIDS": [
+      "822369698133704714"
+   ],
+   "status": {
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds",
+      "text2": "Insanero Is Noob",
+      "type": "LISTENING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lavalink.eu",
+            "port": 2333,
+            "password": "Raccoon"
+         }
+      ]
+   },
+
+   "spotify": {
+      "clientID": "b6fc9df1626c465d89817735c420d5a0",
+      "clientSecret": "2ed4024206fd42d4b72d6b1699acdd61"
+   }
+}
